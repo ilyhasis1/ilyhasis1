@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://sychev-full-stask.vercel.app/" target="blank">Web</a>
 
-###Languages
+<h4 align="center">Languages</h4>
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
